@@ -6,7 +6,7 @@ Given the head of a linked list, remove the nth node from the end of the list an
 
 Example 1:
 
- ![Alt Example1](image.png)
+![Alt Example1](image.png)
 
 Example 2:
 
