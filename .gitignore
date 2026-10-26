@@ -1,0 +1,17 @@
+# IDE settings
+.idea/
+
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
