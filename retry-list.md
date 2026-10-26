@@ -2,3 +2,6 @@ Remove Nth Node From End of List https://leetcode.com/problems/remove-nth-node-f
 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/description/
 Middle of the Linked List https://leetcode.com/problems/middle-of-the-linked-list/description/
 Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/description/
+Reorder List https://leetcode.com/problems/reorder-list/description/
+Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/description/
+Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists/description/
